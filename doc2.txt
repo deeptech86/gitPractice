@@ -1,3 +1,4 @@
 Copy 2
 
-Added after switching to Branch Sub
+Added after switching to Branch Sub.
+checkout this in sub branch
