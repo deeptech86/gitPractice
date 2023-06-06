@@ -1,4 +1,5 @@
 Copy 2
 
 Added after switching to Branch Sub.
-checkout this in sub branch
+Now we are in Sub not Main
+`
